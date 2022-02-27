@@ -1,4 +1,4 @@
-## Chapter 1.0 - Day 1
+## Chapter 1.0 - Day 1 Quests
 
 ### 1. Explain what the Blockchain is in your own words.
 Blockchain is a decentralized database that anyone can make use of. 
