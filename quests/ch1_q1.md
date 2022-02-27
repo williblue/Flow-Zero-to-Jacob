@@ -1,3 +1,5 @@
+## Chapter 1.0 - Day 1
+
 ### 1. Explain what the Blockchain is in your own words.
 Blockchain is a decentralized database that anyone can make use of. 
 All transactions are recorded and stored in every database in the network which makes it
